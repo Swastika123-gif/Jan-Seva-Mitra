@@ -1,0 +1,201 @@
+complaint_text,category,priority,department,location_type,days_pending,affected_group,welfare_area
+People are facing problem due to no tap water available for many days,Water Supply,High,Water Department,Rural,10,Residents,Public Health
+pipeline damaged is creating problems in our village,Water Supply,High,Water Department,Rural,10,Families,Public Health
+People are facing problem due to pipeline damaged for many days,Water Supply,Medium,Water Department,Rural,1,Families,Public Health
+Local residents said that no drinking water in the local area,Water Supply,Medium,Water Department,Urban,6,Residents,Public Health
+Urgent attention is needed for no drinking water in this locality,Water Supply,High,Water Department,Urban,9,Residents,Public Health
+People reported that water tank not filled in this locality,Water Supply,Medium,Water Department,Urban,7,Residents,Public Health
+no drinking water has become a serious concern in the local area,Water Supply,High,Water Department,Rural,8,Residents,Public Health
+pipeline damaged has become a serious concern since last week,Water Supply,High,Water Department,Urban,4,Residents,Public Health
+Residents are suffering because of no tap water available in our village,Water Supply,Medium,Water Department,Urban,10,Residents,Public Health
+pipeline damaged has become a serious concern since last week,Water Supply,High,Water Department,Rural,10,Residents,Public Health
+no tap water available is creating problems in the local area,Water Supply,Medium,Water Department,Rural,5,Residents,Public Health
+People reported that pipeline damaged in our village,Water Supply,High,Water Department,Rural,3,Residents,Public Health
+People are facing problem due to pipeline damaged in the local area,Water Supply,Medium,Water Department,Urban,4,Families,Public Health
+Local residents said that pipeline damaged in our village,Water Supply,High,Water Department,Urban,1,Families,Public Health
+Residents are suffering because of no drinking water for many days,Water Supply,High,Water Department,Urban,6,Families,Public Health
+pipeline damaged has become a serious concern in the local area,Water Supply,Medium,Water Department,Rural,2,Families,Public Health
+People reported that pipeline damaged for many days,Water Supply,Medium,Water Department,Rural,6,Families,Public Health
+pipeline damaged has become a serious concern since last week,Water Supply,Medium,Water Department,Urban,9,Families,Public Health
+People reported that pipeline damaged for many days,Water Supply,Medium,Water Department,Urban,5,Residents,Public Health
+There is a serious issue of no tap water available for many days,Water Supply,Medium,Water Department,Rural,2,Residents,Public Health
+Local residents said that pipeline damaged since last week,Water Supply,Medium,Water Department,Urban,7,Families,Public Health
+no tap water available has become a serious concern in our village,Water Supply,High,Water Department,Urban,2,Families,Public Health
+People reported that no drinking water in this locality,Water Supply,Medium,Water Department,Rural,9,Residents,Public Health
+no tap water available is creating problems since last week,Water Supply,Medium,Water Department,Urban,4,Families,Public Health
+no drinking water is creating problems in our village,Water Supply,Medium,Water Department,Rural,8,Families,Public Health
+People reported that transformer damaged in the local area,Electricity,Medium,Electricity Board,Urban,2,Students,Essential Services
+People reported that voltage fluctuation for many days,Electricity,High,Electricity Board,Rural,4,Residents,Essential Services
+Local residents said that no electricity at night for many days,Electricity,Medium,Electricity Board,Urban,4,Students,Essential Services
+People reported that power cut since last week,Electricity,Medium,Electricity Board,Urban,2,Residents,Essential Services
+Local residents said that voltage fluctuation in this locality,Electricity,Low,Electricity Board,Rural,6,Students,Essential Services
+power cut is creating problems since last week,Electricity,Low,Electricity Board,Urban,3,Residents,Essential Services
+power cut has become a serious concern in this locality,Electricity,Low,Electricity Board,Urban,1,Students,Essential Services
+Complaint has been reported about transformer damaged for many days,Electricity,High,Electricity Board,Urban,5,Students,Essential Services
+People reported that power cut since last week,Electricity,High,Electricity Board,Urban,5,Students,Essential Services
+voltage fluctuation is creating problems in this locality,Electricity,Medium,Electricity Board,Rural,9,Students,Essential Services
+People reported that transformer damaged for many days,Electricity,High,Electricity Board,Urban,6,Residents,Essential Services
+transformer damaged has become a serious concern in our village,Electricity,Medium,Electricity Board,Urban,5,Students,Essential Services
+People are facing problem due to power cut in the local area,Electricity,Medium,Electricity Board,Rural,2,Students,Essential Services
+People reported that streetlight not working in the local area,Electricity,Medium,Electricity Board,Urban,1,Students,Essential Services
+power cut is creating problems in the local area,Electricity,Medium,Electricity Board,Urban,9,Residents,Essential Services
+People reported that no electricity at night since last week,Electricity,Medium,Electricity Board,Rural,1,Residents,Essential Services
+Residents are suffering because of power cut in the local area,Electricity,High,Electricity Board,Rural,10,Residents,Essential Services
+Urgent attention is needed for power cut in the local area,Electricity,High,Electricity Board,Urban,10,Students,Essential Services
+People reported that power cut since last week,Electricity,Low,Electricity Board,Rural,5,Residents,Essential Services
+no electricity at night has become a serious concern for many days,Electricity,Medium,Electricity Board,Rural,1,Residents,Essential Services
+no electricity at night is creating problems in the local area,Electricity,High,Electricity Board,Rural,2,Residents,Essential Services
+People reported that no electricity at night in this locality,Electricity,High,Electricity Board,Rural,10,Residents,Essential Services
+streetlight not working has become a serious concern in our village,Electricity,Medium,Electricity Board,Rural,3,Students,Essential Services
+People reported that transformer damaged for many days,Electricity,Low,Electricity Board,Urban,8,Students,Essential Services
+There is a serious issue of power cut in the local area,Electricity,High,Electricity Board,Urban,3,Residents,Essential Services
+Complaint has been reported about potholes on road in the local area,Roads,Medium,Public Works Department,Urban,10,Residents,Infrastructure
+road not constructed properly has become a serious concern for many days,Roads,Medium,Public Works Department,Urban,10,Students,Infrastructure
+road not constructed properly has become a serious concern in the local area,Roads,Medium,Public Works Department,Urban,1,Students,Infrastructure
+road not constructed properly has become a serious concern in the local area,Roads,High,Public Works Department,Urban,6,Students,Infrastructure
+Local residents said that road broken near school in our village,Roads,Medium,Public Works Department,Rural,2,Students,Infrastructure
+Local residents said that road broken near school in the local area,Roads,High,Public Works Department,Rural,4,Residents,Infrastructure
+People reported that road needs repair for many days,Roads,Medium,Public Works Department,Urban,8,Residents,Infrastructure
+Urgent attention is needed for bridge damaged in the local area,Roads,High,Public Works Department,Rural,8,Residents,Infrastructure
+road not constructed properly has become a serious concern in our village,Roads,High,Public Works Department,Urban,7,Residents,Infrastructure
+Local residents said that road broken near school since last week,Roads,Medium,Public Works Department,Rural,10,Students,Infrastructure
+Local residents said that road broken near school since last week,Roads,Medium,Public Works Department,Rural,8,Residents,Infrastructure
+road needs repair is creating problems in the local area,Roads,High,Public Works Department,Urban,4,Students,Infrastructure
+People reported that potholes on road in our village,Roads,Medium,Public Works Department,Urban,3,Students,Infrastructure
+Local residents said that road not constructed properly since last week,Roads,High,Public Works Department,Rural,9,Students,Infrastructure
+road not constructed properly has become a serious concern for many days,Roads,Medium,Public Works Department,Urban,2,Students,Infrastructure
+People reported that potholes on road in the local area,Roads,Medium,Public Works Department,Urban,6,Students,Infrastructure
+bridge damaged is creating problems for many days,Roads,High,Public Works Department,Urban,8,Students,Infrastructure
+road broken near school is creating problems since last week,Roads,High,Public Works Department,Rural,1,Residents,Infrastructure
+road broken near school has become a serious concern in the local area,Roads,Medium,Public Works Department,Urban,7,Students,Infrastructure
+road not constructed properly has become a serious concern in our village,Roads,High,Public Works Department,Urban,3,Students,Infrastructure
+People reported that road broken near school in the local area,Roads,Medium,Public Works Department,Urban,8,Residents,Infrastructure
+road broken near school has become a serious concern in the local area,Roads,High,Public Works Department,Urban,9,Students,Infrastructure
+road not constructed properly has become a serious concern since last week,Roads,Medium,Public Works Department,Urban,1,Residents,Infrastructure
+road broken near school is creating problems since last week,Roads,Medium,Public Works Department,Urban,1,Students,Infrastructure
+road not constructed properly has become a serious concern for many days,Roads,High,Public Works Department,Urban,7,Residents,Infrastructure
+People are facing problem due to garbage not cleaned in the local area,Sanitation,Medium,Sanitation Department,Urban,1,Residents,Cleanliness
+People reported that no dustbin in village in this locality,Sanitation,High,Sanitation Department,Rural,8,Residents,Cleanliness
+Residents are suffering because of waste collection not regular in the local area,Sanitation,High,Sanitation Department,Rural,10,Residents,Cleanliness
+People reported that blocked drain causing smell in the local area,Sanitation,High,Sanitation Department,Urban,3,Residents,Cleanliness
+Urgent attention is needed for no dustbin in village in the local area,Sanitation,High,Sanitation Department,Urban,1,Residents,Cleanliness
+People reported that blocked drain causing smell in our village,Sanitation,Medium,Sanitation Department,Rural,2,Residents,Cleanliness
+garbage not cleaned is creating problems in the local area,Sanitation,High,Sanitation Department,Rural,3,Families,Cleanliness
+People reported that garbage not cleaned in our village,Sanitation,High,Sanitation Department,Rural,6,Residents,Cleanliness
+Local residents said that dirty surroundings near houses for many days,Sanitation,Low,Sanitation Department,Rural,8,Families,Cleanliness
+blocked drain causing smell has become a serious concern for many days,Sanitation,High,Sanitation Department,Rural,5,Families,Cleanliness
+Local residents said that waste collection not regular since last week,Sanitation,Low,Sanitation Department,Urban,8,Families,Cleanliness
+Urgent attention is needed for garbage not cleaned in our village,Sanitation,High,Sanitation Department,Rural,7,Families,Cleanliness
+People reported that garbage not cleaned in this locality,Sanitation,High,Sanitation Department,Rural,6,Families,Cleanliness
+no dustbin in village has become a serious concern for many days,Sanitation,Low,Sanitation Department,Urban,5,Residents,Cleanliness
+Local residents said that dirty surroundings near houses for many days,Sanitation,Low,Sanitation Department,Rural,1,Families,Cleanliness
+blocked drain causing smell is creating problems for many days,Sanitation,High,Sanitation Department,Urban,10,Families,Cleanliness
+There is a serious issue of waste collection not regular for many days,Sanitation,Low,Sanitation Department,Rural,3,Families,Cleanliness
+no dustbin in village has become a serious concern in this locality,Sanitation,Medium,Sanitation Department,Rural,4,Residents,Cleanliness
+People reported that garbage not cleaned for many days,Sanitation,Low,Sanitation Department,Urban,10,Residents,Cleanliness
+People are facing problem due to blocked drain causing smell in this locality,Sanitation,High,Sanitation Department,Rural,6,Families,Cleanliness
+People are facing problem due to blocked drain causing smell since last week,Sanitation,High,Sanitation Department,Urban,4,Families,Cleanliness
+Local residents said that no dustbin in village in this locality,Sanitation,Low,Sanitation Department,Urban,5,Families,Cleanliness
+People reported that blocked drain causing smell for many days,Sanitation,High,Sanitation Department,Rural,1,Families,Cleanliness
+Local residents said that waste collection not regular in our village,Sanitation,High,Sanitation Department,Rural,9,Residents,Cleanliness
+blocked drain causing smell has become a serious concern in this locality,Sanitation,Low,Sanitation Department,Rural,4,Residents,Cleanliness
+Local residents said that ambulance delayed for many days,Healthcare,Medium,Health Department,Rural,6,Patients,Public Health
+ambulance delayed is creating problems in our village,Healthcare,High,Health Department,Urban,4,Patients,Public Health
+Local residents said that ambulance delayed in our village,Healthcare,Medium,Health Department,Rural,3,Patients,Public Health
+health center not functioning is creating problems since last week,Healthcare,High,Health Department,Rural,10,Patients,Public Health
+Local residents said that ambulance delayed in our village,Healthcare,High,Health Department,Rural,6,Patients,Public Health
+People reported that health center not functioning for many days,Healthcare,High,Health Department,Rural,6,Patients,Public Health
+long waiting time in hospital is creating problems for many days,Healthcare,High,Health Department,Urban,8,Patients,Public Health
+Urgent attention is needed for health center not functioning for many days,Healthcare,Medium,Health Department,Rural,9,Patients,Public Health
+Local residents said that long waiting time in hospital in this locality,Healthcare,Medium,Health Department,Rural,1,Patients,Public Health
+no doctor available is creating problems in the local area,Healthcare,Medium,Health Department,Urban,9,Patients,Public Health
+medicines not available is creating problems in this locality,Healthcare,Medium,Health Department,Rural,5,Patients,Public Health
+Local residents said that ambulance delayed in the local area,Healthcare,High,Health Department,Rural,8,Patients,Public Health
+People reported that no doctor available since last week,Healthcare,Medium,Health Department,Urban,10,Patients,Public Health
+health center not functioning has become a serious concern in the local area,Healthcare,High,Health Department,Urban,1,Patients,Public Health
+Complaint has been reported about health center not functioning in the local area,Healthcare,High,Health Department,Urban,10,Patients,Public Health
+People reported that no doctor available in this locality,Healthcare,Medium,Health Department,Urban,7,Patients,Public Health
+health center not functioning is creating problems in this locality,Healthcare,Medium,Health Department,Urban,10,Patients,Public Health
+Complaint has been reported about medicines not available in the local area,Healthcare,High,Health Department,Rural,6,Patients,Public Health
+long waiting time in hospital has become a serious concern in this locality,Healthcare,High,Health Department,Urban,4,Patients,Public Health
+People reported that long waiting time in hospital since last week,Healthcare,High,Health Department,Rural,7,Patients,Public Health
+Local residents said that health center not functioning in this locality,Healthcare,Medium,Health Department,Rural,2,Patients,Public Health
+long waiting time in hospital is creating problems in our village,Healthcare,Medium,Health Department,Urban,10,Patients,Public Health
+health center not functioning has become a serious concern in our village,Healthcare,Medium,Health Department,Rural,4,Patients,Public Health
+Residents are suffering because of long waiting time in hospital in the local area,Healthcare,High,Health Department,Urban,3,Patients,Public Health
+ambulance delayed is creating problems since last week,Healthcare,High,Health Department,Rural,8,Patients,Public Health
+Urgent attention is needed for school building needs repair in our village,Education,High,Education Department,Urban,4,Students,Education Welfare
+Local residents said that teacher absent in school since last week,Education,Medium,Education Department,Rural,5,Students,Education Welfare
+Local residents said that no proper classrooms in the local area,Education,Medium,Education Department,Rural,6,Students,Education Welfare
+Local residents said that poor teaching quality in our village,Education,High,Education Department,Rural,7,Students,Education Welfare
+Local residents said that school building needs repair for many days,Education,Medium,Education Department,Rural,8,Students,Education Welfare
+Complaint has been reported about school building needs repair in this locality,Education,Medium,Education Department,Urban,7,Students,Education Welfare
+Local residents said that no proper classrooms in this locality,Education,Medium,Education Department,Rural,3,Students,Education Welfare
+People reported that teacher absent in school in the local area,Education,Medium,Education Department,Urban,2,Students,Education Welfare
+People reported that school building needs repair since last week,Education,High,Education Department,Rural,10,Students,Education Welfare
+People are facing problem due to school building needs repair since last week,Education,Medium,Education Department,Rural,3,Students,Education Welfare
+People reported that no proper classrooms in our village,Education,High,Education Department,Rural,10,Students,Education Welfare
+no proper classrooms has become a serious concern for many days,Education,Medium,Education Department,Urban,7,Students,Education Welfare
+People reported that poor teaching quality in our village,Education,Medium,Education Department,Urban,8,Students,Education Welfare
+There is a serious issue of lack of study materials in this locality,Education,High,Education Department,Urban,2,Students,Education Welfare
+teacher absent in school has become a serious concern for many days,Education,High,Education Department,Urban,2,Students,Education Welfare
+Complaint has been reported about school building needs repair in this locality,Education,High,Education Department,Rural,7,Students,Education Welfare
+no proper classrooms has become a serious concern in the local area,Education,Medium,Education Department,Urban,2,Students,Education Welfare
+Urgent attention is needed for poor teaching quality in this locality,Education,Medium,Education Department,Rural,2,Students,Education Welfare
+Complaint has been reported about school building needs repair for many days,Education,Medium,Education Department,Urban,2,Students,Education Welfare
+Local residents said that no proper classrooms for many days,Education,High,Education Department,Rural,6,Students,Education Welfare
+There is a serious issue of school building needs repair in this locality,Education,Medium,Education Department,Urban,4,Students,Education Welfare
+Residents are suffering because of poor teaching quality in our village,Education,High,Education Department,Urban,7,Students,Education Welfare
+People reported that school building needs repair in the local area,Education,High,Education Department,Urban,6,Students,Education Welfare
+People reported that school building needs repair in the local area,Education,Medium,Education Department,Rural,8,Students,Education Welfare
+lack of study materials has become a serious concern since last week,Education,Medium,Education Department,Rural,10,Students,Education Welfare
+Local residents said that fertilizer not available in the local area,Agriculture,Medium,Agriculture Department,Rural,9,Farmers,Farmer Support
+fertilizer not available is creating problems in our village,Agriculture,High,Agriculture Department,Rural,1,Farmers,Farmer Support
+Local residents said that fertilizer not available in the local area,Agriculture,Medium,Agriculture Department,Urban,8,Farmers,Farmer Support
+Local residents said that no irrigation facilities in this locality,Agriculture,High,Agriculture Department,Rural,9,Farmers,Farmer Support
+Local residents said that crop damage due to pests in our village,Agriculture,Medium,Agriculture Department,Rural,2,Farmers,Farmer Support
+crop damage due to pests has become a serious concern for many days,Agriculture,Medium,Agriculture Department,Rural,2,Farmers,Farmer Support
+no irrigation facilities is creating problems in this locality,Agriculture,Medium,Agriculture Department,Rural,9,Farmers,Farmer Support
+no irrigation facilities is creating problems in the local area,Agriculture,Medium,Agriculture Department,Urban,6,Farmers,Farmer Support
+crop damage due to pests has become a serious concern since last week,Agriculture,High,Agriculture Department,Rural,8,Farmers,Farmer Support
+lack of farming equipment has become a serious concern in the local area,Agriculture,High,Agriculture Department,Rural,2,Farmers,Farmer Support
+There is a serious issue of crop insurance claim delayed in the local area,Agriculture,High,Agriculture Department,Urban,1,Farmers,Farmer Support
+People reported that crop damage due to pests in this locality,Agriculture,High,Agriculture Department,Urban,1,Farmers,Farmer Support
+People reported that fertilizer not available in the local area,Agriculture,High,Agriculture Department,Urban,2,Farmers,Farmer Support
+People reported that lack of farming equipment since last week,Agriculture,High,Agriculture Department,Rural,4,Farmers,Farmer Support
+no irrigation facilities is creating problems in our village,Agriculture,Medium,Agriculture Department,Urban,4,Farmers,Farmer Support
+no irrigation facilities has become a serious concern for many days,Agriculture,Medium,Agriculture Department,Rural,6,Farmers,Farmer Support
+fertilizer not available has become a serious concern in the local area,Agriculture,High,Agriculture Department,Urban,6,Farmers,Farmer Support
+People reported that no irrigation facilities for many days,Agriculture,Medium,Agriculture Department,Rural,2,Farmers,Farmer Support
+There is a serious issue of fertilizer not available in our village,Agriculture,High,Agriculture Department,Urban,7,Farmers,Farmer Support
+People reported that no irrigation facilities in the local area,Agriculture,Medium,Agriculture Department,Urban,1,Farmers,Farmer Support
+Local residents said that crop insurance claim delayed since last week,Agriculture,High,Agriculture Department,Urban,2,Farmers,Farmer Support
+People reported that no irrigation facilities in the local area,Agriculture,Medium,Agriculture Department,Urban,1,Farmers,Farmer Support
+People reported that crop damage due to pests for many days,Agriculture,Medium,Agriculture Department,Urban,2,Farmers,Farmer Support
+Local residents said that crop insurance claim delayed since last week,Agriculture,High,Agriculture Department,Rural,5,Farmers,Farmer Support
+Local residents said that no irrigation facilities in this locality,Agriculture,Medium,Agriculture Department,Urban,3,Farmers,Farmer Support
+Local residents said that harassment complaints ignored for many days,Public Safety,High,Police Department,Rural,10,Residents,Safety
+Local residents said that harassment complaints ignored since last week,Public Safety,High,Police Department,Urban,2,Women,Safety
+People reported that harassment complaints ignored since last week,Public Safety,High,Police Department,Urban,3,Women,Safety
+harassment complaints ignored is creating problems in this locality,Public Safety,Medium,Police Department,Rural,10,Residents,Safety
+harassment complaints ignored has become a serious concern in this locality,Public Safety,Medium,Police Department,Rural,9,Women,Safety
+Local residents said that theft cases increasing since last week,Public Safety,High,Police Department,Rural,1,Residents,Safety
+Complaint has been reported about crime rate increasing in our village,Public Safety,Medium,Police Department,Urban,4,Women,Safety
+crime rate increasing has become a serious concern in our village,Public Safety,High,Police Department,Rural,8,Residents,Safety
+Local residents said that harassment complaints ignored in the local area,Public Safety,Medium,Police Department,Rural,9,Women,Safety
+crime rate increasing is creating problems in the local area,Public Safety,High,Police Department,Rural,2,Residents,Safety
+There is a serious issue of theft cases increasing since last week,Public Safety,Medium,Police Department,Rural,6,Residents,Safety
+unsafe roads at night has become a serious concern in the local area,Public Safety,Medium,Police Department,Rural,3,Women,Safety
+Urgent attention is needed for crime rate increasing for many days,Public Safety,Medium,Police Department,Urban,3,Women,Safety
+People reported that harassment complaints ignored for many days,Public Safety,Medium,Police Department,Rural,3,Residents,Safety
+People reported that harassment complaints ignored in the local area,Public Safety,Medium,Police Department,Rural,10,Women,Safety
+People reported that crime rate increasing in this locality,Public Safety,Medium,Police Department,Urban,6,Women,Safety
+There is a serious issue of unsafe roads at night since last week,Public Safety,High,Police Department,Urban,8,Residents,Safety
+Local residents said that theft cases increasing since last week,Public Safety,High,Police Department,Urban,6,Residents,Safety
+unsafe roads at night is creating problems in this locality,Public Safety,High,Police Department,Rural,6,Women,Safety
+theft cases increasing has become a serious concern in this locality,Public Safety,High,Police Department,Urban,3,Residents,Safety
+no police patrolling is creating problems in the local area,Public Safety,High,Police Department,Urban,6,Residents,Safety
+People reported that unsafe roads at night since last week,Public Safety,High,Police Department,Urban,2,Women,Safety
+Urgent attention is needed for no police patrolling in this locality,Public Safety,High,Police Department,Urban,8,Women,Safety
+theft cases increasing is creating problems in this locality,Public Safety,High,Police Department,Urban,7,Residents,Safety
+Residents are suffering because of theft cases increasing since last week,Public Safety,High,Police Department,Rural,7,Residents,Safety

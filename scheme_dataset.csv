@@ -1,0 +1,15 @@
+scheme_name,welfare_area,citizen_type,income_group,location_type,age_group,gender
+Ayushman Bharat Support,Public Health,General,Low,Both,All,Any
+Primary Health Center Benefit,Public Health,Patient,Low,Rural,All,Any
+Rural Electrification Benefit,Essential Services,General,Low,Rural,All,Any
+Village Power Support,Essential Services,Farmer,Low,Rural,Adult,Any
+Rural Road Development Support,Infrastructure,General,Low,Rural,All,Any
+School Access Road Support,Infrastructure,Student,Low,Rural,Child,Any
+Swachh Bharat Support,Cleanliness,General,Low,Both,All,Any
+Village Sanitation Mission,Cleanliness,General,Low,Rural,All,Any
+Scholarship Support Program,Education Welfare,Student,Low,Both,Child,Any
+Girl Education Assistance,Education Welfare,Student,Low,Both,Child,Female
+PM-Kisan Linked Support,Farmer Support,Farmer,Low,Rural,Adult,Any
+Crop Insurance Benefit,Farmer Support,Farmer,Low,Rural,Adult,Any
+Women Safety Helpline Support,Safety,Woman,Low,Both,Adult,Female
+Community Police Support,Safety,General,Low,Both,All,Any
