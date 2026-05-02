@@ -33,6 +33,16 @@ st.markdown("""
 
 .main {
     background: linear-gradient(to right, #f7fbf4, #eef7ea);
+    color: #1f2937 !important;
+}
+
+/* Force text visible */
+html, body, [class*="css"] {
+    color: #1f2937 !important;
+}
+
+h1, h2, h3, h4, h5, h6, p, li, span, div {
+    color: #1f2937;
 }
 
 /* Hero */
@@ -40,14 +50,20 @@ st.markdown("""
     background: linear-gradient(135deg, #0d47a1, #2e7d32);
     padding: 30px;
     border-radius: 20px;
-    color: white;
+    color: white !important;
     text-align: center;
     margin-bottom: 20px;
 }
 
+.hero-box h1,
+.hero-box p {
+    color: white !important;
+}
+
 /* Cards */
 .info-card {
-    background: white;
+    background: #ffffff !important;
+    color: #2f3e46 !important;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
@@ -55,22 +71,67 @@ st.markdown("""
     margin-bottom: 15px;
 }
 
+.info-card h3 {
+    color: #1b5e20 !important;
+}
+
+.info-card p,
+.info-card li {
+    color: #2f3e46 !important;
+}
+
 /* Result */
 .result-card {
-    background: white;
+    background: #ffffff !important;
+    color: #2f3e46 !important;
     padding: 18px;
     border-radius: 15px;
     box-shadow: 0px 4px 10px rgba(0,0,0,0.08);
     margin-bottom: 15px;
 }
 
+.result-card h3 {
+    color: #1b5e20 !important;
+}
+
+.result-card p {
+    color: #2f3e46 !important;
+}
+
 /* Scheme */
 .scheme-card {
-    background: #ffffff;
+    background: #ffffff !important;
+    color: #2f3e46 !important;
     padding: 15px;
     border-radius: 12px;
     border: 1px solid #c8e6c9;
     margin-bottom: 10px;
+}
+
+.scheme-card h4 {
+    color: #1b5e20 !important;
+}
+
+.scheme-card p {
+    color: #2f3e46 !important;
+}
+
+/* Footer */
+.footer-box {
+    background: #eef7ea !important;
+    color: #2f3e46 !important;
+    padding: 18px;
+    border-radius: 16px;
+    border: 1px solid #d7e9cf;
+    margin-top: 18px;
+}
+
+.footer-box h4 {
+    color: #1b5e20 !important;
+}
+
+.footer-box p {
+    color: #2f3e46 !important;
 }
 
 /* Buttons */
@@ -79,16 +140,16 @@ st.markdown("""
     height: 45px;
     font-weight: bold;
     background-color: #2e7d32;
-    color: white;
+    color: white !important;
 }
 
 .stButton>button:hover {
     background-color: #1b5e20;
+    color: white !important;
 }
 
 </style>
 """, unsafe_allow_html=True)
-
 # ----------------------------
 # Load Model and Data
 # ----------------------------
