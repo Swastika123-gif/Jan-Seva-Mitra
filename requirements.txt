@@ -4,3 +4,7 @@ scikit-learn
 nltk
 matplotlib
 numpy
+streamlit-mic-recorder
+SpeechRecognition
+gtts
+deep-translator

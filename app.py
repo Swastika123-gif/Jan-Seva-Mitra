@@ -1,6 +1,14 @@
 import streamlit as st
 import pandas as pd
 import pickle
+# from streamlit_js_eval import streamlit_js_eval
+# from streamlit_mic_recorder import speech_to_text
+# from gtts import gTTS
+# from deep_translator import GoogleTranslator
+
+# import tempfile
+# import os
+
 import re
 from pathlib import Path
 import nltk
@@ -150,9 +158,49 @@ h1, h2, h3, h4, h5, h6, p, li, span, div {
 
 </style>
 """, unsafe_allow_html=True)
+
+# ----------------------------
+# Translate Text
+# ----------------------------
+# def translate_text(text, target_lang="hi"):
+
+#     try:
+#         translated = GoogleTranslator(
+#             source='auto',
+#             target=target_lang
+#         ).translate(text)
+
+#         return translated
+
+#     except:
+#         return text
+
+
+# # ----------------------------
+# # Text To Speech
+# # ----------------------------
+# def speak_text(text, lang="en"):
+
+#     tts = gTTS(text=text, lang=lang)
+
+#     temp_file = tempfile.NamedTemporaryFile(
+#         delete=False,
+#         suffix='.mp3'
+#     )
+
+#     temp_path = temp_file.name
+
+#     tts.save(temp_path)
+
+#     audio_file = open(temp_path, 'rb')
+#     audio_bytes = audio_file.read()
+
+#     st.audio(audio_bytes, format='audio/mp3')
+
 # ----------------------------
 # Load Model and Data
 # ----------------------------
+
 @st.cache_resource
 def load_model():
     with open("models/svm_model.pkl", "rb") as f:
@@ -398,6 +446,7 @@ if st.sidebar.button("📊 Seva Dashboard"):
     st.session_state.page = "home"
     st.rerun()
 
+
 if st.sidebar.button("📝 Analyze Complaint"):
     st.session_state.page = "analysis"
     st.rerun()
@@ -419,6 +468,8 @@ st.sidebar.markdown("""
 Made for public awareness 🇮🇳
 </p>
 """, unsafe_allow_html=True)
+
+
 # ----------------------------
 # AWARENESS PAGE
 # ----------------------------
@@ -658,12 +709,46 @@ elif st.session_state.page == "analysis":
         </ul>
     </div>
     """, unsafe_allow_html=True)
+    st.markdown("""
+    <div class="info-card">
+    <h3>🎤 Complaint Input / शिकायत दर्ज करें</h3>
+    <p>
+    You can write your complaint in Hindi or English.
 
-    complaint = st.text_area(
-        "Enter Complaint / अपनी शिकायत लिखें",
-        placeholder="Example: There is a serious issue of no irrigation facilities in our village for many days",
-        height=160
+    आप हिंदी या अंग्रेज़ी में अपनी शिकायत  लिख सकते हैं।
+    </p>
+    </div>
+    """, unsafe_allow_html=True)
+
+    language_choice = st.selectbox(
+        "🌐 Choose Language / भाषा चुनें",
+        ["English", "Hindi"]
     )
+
+    # if "voice_text" not in st.session_state:
+    #     st.session_state.voice_text = ""
+    #         if result:
+    #             st.session_state.voice_text = result
+    #             st.rerun()
+    st.subheader("📝 Enter Complaint / शिकायत लिखें")
+    complaint = st.text_area(
+        "Type in Hindi or English",
+        height=150,
+        placeholder="Example: हमारे गांव में पानी की समस्या है"
+    )
+
+    # voice_text = speech_to_text(
+    #     language='hi',
+    #     start_prompt="🎤 Speak Complaint",
+    #     stop_prompt="⏹ Stop",
+    #     use_container_width=True,
+    #     just_once=True,
+    #     key='voice'
+    # )
+
+    # if voice_text:
+    #     complaint = voice_text
+    #     st.success(f"Voice Input: {complaint}")
 
     col1, col2, col3 = st.columns(3)
 
@@ -730,8 +815,15 @@ elif st.session_state.page == "result":
     data = st.session_state.result_data
     solution = get_solution_details(data["predicted_category"])
 
-    st.title("📊 Complaint Analysis Result")
-
+    # st.title("📊 Complaint Analysis Result")
+    # st.markdown("""
+    # <div class="info-card">
+    # <h3>🔊 Voice Guidance / आवाज़ मार्गदर्शन</h3>
+    # <p>
+    # This system provides bilingual guidance in English and Hindi.
+    # </p>
+    # </div>
+    # """, unsafe_allow_html=True)
     st.markdown("""
     <div class="info-card">
         <h3>Result Summary / परिणाम सारांश</h3>
@@ -840,6 +932,24 @@ elif st.session_state.page == "result":
     </div>
     """, unsafe_allow_html=True)
 
+    # english_message = f"""
+    # Your complaint category is {data['predicted_category']}.
+    # Please contact {data['department']}.
+    # Priority level is {data['priority']}.
+    # """
+
+    # hindi_message = f"""
+    # आपकी शिकायत श्रेणी {category_hindi.get(data['predicted_category'], '')} है।
+    # कृपया {department_hindi.get(data['department'], '')} से संपर्क करें।
+    # प्राथमिकता स्तर {data['priority']} है।
+    # """
+
+    # st.markdown("### 🔊 English Voice Guidance")
+    # speak_text(english_message, "en")
+
+    # st.markdown("### 🔊 हिंदी आवाज़ मार्गदर्शन")
+    # speak_text(hindi_message, "hi")
+  
     r1, r2 = st.columns(2)
 
     with r1:
